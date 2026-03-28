@@ -59,16 +59,7 @@
 
 ### 📈 GitHub 统计 & 奖杯
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=COLDESTBOW30654&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=58A6FF&title_color=FFFFFF&text_color=9CA3AF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=COLDESTBOW30654&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=9CA3AF" width="48%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=COLDESTBOW30654&theme=radical&hide_border=true&background=0D1117&stroke=9CA3AF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=9CA3AF&dates=9CA3AF" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=COLDESTBOW30654&theme=radical&no-frame=true&row=1&column=6&margin-w=15" alt="GitHub Trophy" />
 </p>
 
 ---
@@ -117,16 +108,6 @@
       </td>
     </tr>
 </table>
-
----
-
-### 🎉 趣味成就
-<p align="center">
-  <img src="https://img.shields.io/badge/🌟-快乐编码-FF69B4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🐛-抓虫专家-32CD32?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/☕-咖啡因驱动-8B4513?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🚀-自动化狂魔-FF4500?style=for-the-badge" />
-</p>
 
 ---
 
