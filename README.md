@@ -89,23 +89,6 @@
 
 ---
 
-### 📝 最新博客动态
-<p align="center">
-  <a href="https://blog.blym.top">
-    <img src="https://img.shields.io/badge/订阅博客-RSS-ffa500?style=for-the-badge&logo=rss&logoColor=white" />
-  </a>
-</p>
-
-<!-- 以下区域将由 GitHub Actions 自动填充博客文章列表 -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<p align="center">
-  <i>📖 更多内容请访问 <a href="https://blog.blym.top">主博客</a> 或 <a href="http://hengduan.dpdns.org">备用站</a></i>
-</p>
-
----
-
 ### 🌐 在线足迹 & 联系
 <table align="center">
     <tr>
