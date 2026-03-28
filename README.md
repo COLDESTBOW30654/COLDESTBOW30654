@@ -1,6 +1,6 @@
 <!-- 头部动态文字与头像 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+白鹿原嚒+%F0%9F%91%8B;Welcome+to+my+GitHub+space!;Automation+%7C+Android+%7C+Web" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+COLDESTBOW30654+%F0%9F%91%8B;Welcome+to+my+GitHub+space!;Automation+%7C+Android+%7C+Web" alt="Typing SVG" />
 </p>
 
 <p align="center">
