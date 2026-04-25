@@ -12,7 +12,7 @@
   <a href="https://github.com/COLDESTBOW30654?tab=followers"><img src="https://img.shields.io/github/followers/COLDESTBOW30654?label=Followers&style=flat-square&logo=github" /></a>
   <a href="https://github.com/COLDESTBOW30654?tab=repositories"><img src="https://img.shields.io/badge/Projects-4-important?style=flat-square&logo=github" /></a>
   <a href="https://blym.top"><img src="https://img.shields.io/badge/个人主页-blym.top-0e75b6?style=flat-square&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://blog.blym.top"><img src="https://img.shields.io/badge/博客-blog.blym.top-00a98f?style=flat-square&logo=hexo&logoColor=white" /></a>
+  <a href="https://blog.blym.top"><img src="https://img.shields.io/badge/博客-blog.blym.top-00a98f?Astro-0C1222?style=flat-square&logo=astro&logoColor=white" /></a>
 </p>
 
 ---
@@ -32,10 +32,10 @@
 
 | 类别 | 技术 |
 |------|------|
-| **编程语言** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+| **编程语言** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
 | **前端框架** | ![Astro](https://img.shields.io/badge/Astro-0C1222?style=flat-square&logo=astro&logoColor=white) ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)（学习中） |
 | **自动化工具** | ![Auto.js](https://img.shields.io/badge/Auto.js-FFB300?style=flat-square&logo=javascript&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
-| **开发环境** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white) |
+| **开发环境** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
 | **其他** | ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 </details>
