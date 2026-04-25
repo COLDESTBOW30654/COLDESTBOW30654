@@ -48,12 +48,12 @@
 | [**Automatic-spark-renewal-APP**](https://github.com/COLDESTBOW30654/Automatic-spark-renewal-APP) | 嵌入自动续火花脚本的 Auto.js 修改版，实现自动化任务。 | Java |
 | [**Automatic-spark-renewal**](https://github.com/COLDESTBOW30654/Automatic-spark-renewal) | 基于 AutoJS6 的快手自动续火花脚本，简化日常操作。 | JavaScript |
 | [**DailyQuoteWeb**](https://github.com/COLDESTBOW30654/DailyQuoteWeb) | 每日一句网页应用，简洁展示励志语录。 | PHP |
+| [**ruth-or-Dare**](https://github.com/COLDESTBOW30654/Truth-or-Dare) | 网页在线真心话·大冒险。 | HTML |
 
 ---
 
 ### 🚀 当前目标
-- **自制三体剧情游戏** ▰▰▰▰▰▰▰▰▰▰ 0% <sub>📄 新建文件夹</sub>
-- **学习 Godot 引擎** ▰▰▰▰▰▰▰▰▰▰ 0% <sub>📄 新建文件夹</sub>
+- **自制模拟股市游戏** ▰▰▰▰▰▰▰▰▰▰ 0% <sub>📄 新建文件夹</sub>
 
 ---
 
