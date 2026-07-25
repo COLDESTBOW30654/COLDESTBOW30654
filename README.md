@@ -1,6 +1,6 @@
 <!-- 头部动态文字与头像 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+CJK+SC&size=28&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+COLDESTBOW30654+%F0%9F%91%8B;Welcome+to+my+GitHub+space!;Automation+%7C+%7C+Web" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+CJK+SC&size=28&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+COLDESTBOW30654+%F0%9F%91%8B;Welcome+to+my+GitHub+space!;Automation+%7C+Web" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,10 +18,9 @@
 ---
 
 ### 💡 关于我
-- 🔭 专注于 **Android 自动化**、**Web 开发**与 **脚本工具**  
+- 🔭 专注于 **Android 自动化**、**Web 开发**与 **客户端开发**  
 - 📝 喜欢分享技术心得，欢迎访问我的 **[博客](https://blog.blym.top)**  
 - 💬 热爱开源，乐于协作，期待与志同道合的你交流
-- 😡 一生之敌“缓存”
 
 ---
 
@@ -32,10 +31,10 @@
 
 | 类别 | 技术 |
 |------|------|
-| **编程语言** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+| **编程语言** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) (学习中)|
 | **前端框架** | ![Astro](https://img.shields.io/badge/Astro-0C1222?style=flat-square&logo=astro&logoColor=white) ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)（学习中） |
 | **自动化工具** | ![Auto.js](https://img.shields.io/badge/Auto.js-FFB300?style=flat-square&logo=javascript&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
-| **开发环境** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+| **开发环境** | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white) |
 | **其他** | ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 </details>
@@ -81,33 +80,32 @@
 ---
 
 ### 🌐 在线足迹 & 联系
-<table align="center">
-    <tr>
-    <td align="center">
-      <a href="https://blym.top"><img src="https://img.icons8.com/color/48/000000/domain.png"/><br/>个人主页</a>
-      </td>
-    <td align="center">
-      <a href="https://blog.blym.top"><img src="https://img.icons8.com/color/48/000000/blog.png"/><br/>主博客</a>
-      </td>
-    <td align="center">
-      <a href="http://hengduan.dpdns.org"><img src="https://img.icons8.com/color/48/000000/domain.png"/><br/>备用博客</a>
-      </td>
-    <td align="center">
-      <a href="mailto:2724008492@qq.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/><br/>邮箱</a>
-      </td>
-    </tr>
-    <tr>
-    <td align="center">
-      <a href="https://space.bilibili.com/3546562022083097"><img src="https://img.icons8.com/color/48/000000/bilibili.png"/><br/>Bilibili</a>
-      </td>
-    <td align="center">
-      <a href="https://ifdian.net/a/hengduan"><img src="https://img.icons8.com/color/48/000000/patreon.png"/><br/>爱发电</a>
-      </td>
-    <td align="center" colspan="2">
-      <i>✨ 支持我的创作，让灵感持续发光</i>
-      </td>
-    </tr>
-</table>
+<p align="center">
+  <a href="https://blym.top">
+    <img src="https://img.shields.io/badge/个人主页-blym.top-4285F4?style=for-the-badge&logo=globe&logoColor=white"/>
+  </a>
+  <a href="https://blog.blym.top">
+    <img src="https://img.shields.io/badge/主博客-blog.blym.top-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/>
+  </a>
+  <a href="http://blog.119567.xyz">
+    <img src="https://img.shields.io/badge/备用博客-blog.119567.xyz-03A9F4?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+  </a>
+  <br>
+  <a href="mailto:2724008492@qq.com">
+    <img src="https://img.shields.io/badge/邮箱-2724008492@qq.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://space.bilibili.com/3546562022083097">
+    <img src="https://img.shields.io/badge/Bilibili-哔哩哔哩-FB729C?style=for-the-badge&logo=bilibili&logoColor=white"/>
+  </a>
+  <a href="https://ifdian.net/a/hengduan">
+    <img src="https://img.shields.io/badge/爱发电-支持创作-FF6677?style=for-the-badge&logo=heart&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+✨ 支持我的创作，让灵感持续发光
+</p>
+
 
 ---
 
