@@ -45,7 +45,7 @@
 | 项目 | 描述 | 技术 |
 |------|------|------|
 | [**betterhttpapi**](https://github.com/COLDESTBOW30654/betterhttpapi) | BetterHTTPAPI PaperMC 服务器 HTTP API 管理插件 —— 通过 RESTful API 远程控制 Minecraft 服务器。 | Java |
-| [**Automatic-spark-renewal**](https://github.com/COLDESTBOW30654/Automatic-spark-renewal) | 基于 AutoJS6 的快手自动续火花脚本，简化日常操作。 | JavaScript |
+| [**Automatic-spark-renewal**](https://github.com/COLDESTBOW30654/Automatic-spark-renewal) | 基于 AutoJS6 的自动续火花脚本，简化日常操作。 | JavaScript |
 | [**Truth-or-Dare**](https://github.com/COLDESTBOW30654/Truth-or-Dare) | 网页在线真心话·大冒险。 | HTML |
 
 ---
